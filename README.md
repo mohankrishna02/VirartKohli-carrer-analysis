@@ -4,6 +4,9 @@
 
 ### Dataset :- [Click Here](https://www.kaggle.com/datasets/drahulsingh/virat-kohli-all-international-cricket-centuries?resource=download)
 
+* Main Visulization :-
+  !["visualization"](https://github.com/mohankrishna02/VirartKohli-carrer-analysis/blob/main/assets/finviz.png "Optional Title")
+
 * Visualization-1 :-
   * This visualization provides insights into Virat Kohli's centuries, distinguishing between those scored in India (home) and those achieved outside India (away)
   
@@ -31,6 +34,7 @@
 
 * Visualization-6 :-
   * This visualization illustrates Virat Kohli's centuries on a yearly basis.
+  
   !["visualization"](https://github.com/mohankrishna02/VirartKohli-carrer-analysis/blob/main/assets/viz6.png "Optional Title")
 
 
